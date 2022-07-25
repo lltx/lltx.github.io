@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c9395"],{"57da":function(a,n,o){"use strict";o.r(n);var t={name:"datavaa",beforeCreate(){window.location.href="https://datavaa.com"}};const e=t;n["default"]=e}}]);
+//# sourceMappingURL=chunk-2d0c9395.14915fa4.js.map
